@@ -1,0 +1,12 @@
+// 问题列表
+1.vagrant up centos7(name) 不能启动的原因  : 已解决,原因(name是在配置文件中指定的,还是名称不对)
+
+
+
+// 未完成的
+1.oneinstack 安装环境  : 可以用,已经安装过
+2.研究下oneinstack的安装脚本
+3.ubuntu box要这个镜像 不用centos的镜像  : 正在改用
+4.删除安装包,保存centos镜像  :  镜像已经打包并保存
+5.ubuntu16 mysql安装不成功  把mine目录放到github
+6.共享目录权限问题
